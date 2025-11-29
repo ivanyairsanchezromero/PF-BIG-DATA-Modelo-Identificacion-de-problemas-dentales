@@ -1,0 +1,14 @@
+Instrucciones de instalación y ejecución
+
+Abre el enlace del modelo en Teachable Machine:
+https://teachablemachine.withgoogle.com/models/BSa6tCPGK/
+
+Una vez cargada la página, selecciona la opción “Webcam”.
+
+Activa tu cámara cuando el navegador te lo solicite.
+
+Coloca tu boca frente a la cámara o muestra una imagen de dientes para que el modelo realice la detección.
+
+Observa los resultados en tiempo real: el sistema clasificará la imagen en alguna de las categorías entrenadas (bruxismo, caries, gingivitis, malposición o dientes sanos).
+
+Para probar diferentes casos, solo cambia la posición de la cámara o muestra nuevas imágenes.
